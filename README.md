@@ -1,0 +1,1 @@
+Requires Idris 2.
